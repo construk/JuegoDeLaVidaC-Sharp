@@ -13,7 +13,7 @@ Una  celda  viva  se representa con una ficha, y una muerta con la ausencia de t
 3. Si una celdilla está   viva  y  tiene  m s  de  3  vecinas muere por sobrecarga de población. 
 4. Si una celdilla está  muerta y tiene exactamente 3 vecinas entonces pasa a estar viva (nace). 
 
-![Imagen funcionamiento juego vida](https://github.com/construk/JuegoDeLaVidaC-Sharp/JuegoVidaExample.gif)
+![Imagen funcionamiento juego vida](https://raw.githubusercontent.com/construk/JuegoDeLaVidaC-Sharp/master/JuegoVidaExample.gif)
 
 ------------------------------------
 
